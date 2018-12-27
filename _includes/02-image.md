@@ -1,2 +1,2 @@
 ##### A big cat
-(https://octodex.github.com/images/yaktocat.png)
+(![afhmbcjg](https://octodex.github.com/images/yaktocat.png))
